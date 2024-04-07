@@ -1,0 +1,5 @@
+{
+    "2021":[{"title":"Boston","date":"01/04","src":"/boston.png"},{"title":"Albuquerque","date":"04/01","src":"/dallas.png"},{"title":"San Fransisco","date":"06/11","src":"/sf.png"},{"title":"Bellevile","date":"11/04","src":"/belle.jpg"},{"title":"Santa Fe","date":"12/19","src":"/fioriera_mixy.png"}],
+    "2022":[{"title":"Burbank","date":"02/01","src":"/burbank.jpg"},{"title":"Chicago","date":"03/31","src":"/chicago.jpg"},{"title":"Fremont","date":"06/11","src":"/Fremont.jpg"},{"title":"New England","date":"10/04","src":"/New England.jpg"},{"title":"Visalia","date":"12/26","src":"/Visalia-long.jpg"}],
+    "2023":[{"title":"San Jose","date":"01/21","src":"/San Jose.jpg"},{"title":"Pasadena","date":"02/26","src":"/Pasadena.jpg"},{"title":"Oxnard","date":"05/08","src":"/Oxnard.jpg"},{"title":"Oakland","date":"09/03","src":"/Oakland.jpg"},{"title":"Berkeley","date":"11/03","src":"/Berkeley-long.jpg"}]
+}
