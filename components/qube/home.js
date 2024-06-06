@@ -5,7 +5,7 @@ export function NavMenu() {
     return (
         <div className="w-26 h-[102px] flex-col justify-start items-end gap-[3px] inline-flex">
             <div className="text-right text-black text-sm font-semibold font-['Maven Pro'] hover:text-[16px]">Collections</div>
-            <Link href={"/project"}><div className="text-black text-sm font-semibold font-['Maven Pro'] hover:text-[16px]">Installations</div></Link>
+            <Link href={"/qube/installations"}><div className="text-black text-sm font-semibold font-['Maven Pro'] hover:text-[16px]">Installations</div></Link>
             <div className="text-black text-sm font-semibold font-['Maven Pro'] hover:text-[16px]">Blogs</div>
             <div className="text-black text-sm font-semibold font-['Maven Pro'] hover:text-[16px]">Where to Buy</div>
             <div className="text-black text-sm font-semibold font-['Maven Pro'] hover:text-[16px]">About</div>

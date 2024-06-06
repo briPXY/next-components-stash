@@ -1,10 +1,10 @@
 'use client'
-import { MainScreen, PanelContainer, LeftPanel, ProjectRightPanel, TopLeftContainer } from "@/components/layout";
-import { NavMenu } from "@/components/home";
-import { DynamicBarTitle } from "@/components/proj-left-panel";
-import { ProjItem, ProjItemLong, ItemGap, FullList } from "@/components/proj-item";
+import { MainScreen, PanelContainer, LeftPanel, ProjectRightPanel, TopLeftContainer } from "@/components/qube/layout";
+import { NavMenu } from "@/components/qube/home";
+import { DynamicBarTitle } from "@/components/qube/proj-left-panel";
+import { ProjItem, ProjItemLong, ItemGap, FullList } from "@/components/qube/proj-item";
 import { useState, useEffect } from "react";
-import data from './data.json';
+import data from '../../project/data.json';
 
 export default function Project() {
     const [year, setYear] = useState(2021);

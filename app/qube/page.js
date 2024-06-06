@@ -1,5 +1,5 @@
-import { MainScreen, PanelContainer, LeftPanel, ImageRightPanel, TopLeftContainer } from "@/components/layout";
-import { NavMenu, TitleDesc, Logo, HeroImg } from "@/components/home";
+import { MainScreen, PanelContainer, LeftPanel, ImageRightPanel, TopLeftContainer } from "@/components/qube/layout";
+import { NavMenu, TitleDesc, Logo, HeroImg } from "@/components/qube/home";
 
 export default function Home() {
   return (
